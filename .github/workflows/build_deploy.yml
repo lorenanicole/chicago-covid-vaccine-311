@@ -14,8 +14,6 @@ jobs:
         uses: actions/checkout@v2 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
         with:
           persist-credentials: false
-      - name: Checkout submodules  # Checks out the themes and plugins submodule needed to build website
-        uses: textbook/git-checkout-submodule-action@master
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v2
         with:
