@@ -4,8 +4,7 @@ body {
   background-color: #ffffff;
   color: #242121;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-align: justify;
-  text-justify: inter-word;
+  text-align: left;
 }
 a {
   color: #303030;
