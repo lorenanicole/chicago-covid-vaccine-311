@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Gabe Zurita & Lorena Mesa'
-SITENAME = 'Chicago COVID Vaccine 311'
+SITENAME = 'Chicago Vaccine Information'
 SITEURL = ''
 
 PATH = 'content'
@@ -11,6 +11,8 @@ PATH = 'content'
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
+
+THEME = "pelican-minimal"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -26,8 +28,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#MENUITEMS = (('GitHub', 'https://github.com/lorenanicole/chicago-covid-vaccine-311/'),)
 
 DEFAULT_PAGINATION = False
 
