@@ -9,7 +9,7 @@ On March 29, Chicago will enter Covid vaccine [phase 1C](https://www.chicago.gov
 - The below websites allow you to book appointments online. Some have appointments posted sporadically throughout the day, others allow you to choose from a calendar of available appointment dates:
 	- [Cook County health](https://cookcountypublichealth.org/communicable-diseases/covid-19/covid-vaccine/)
 	- [Rush Hospital](https://www.rush.edu/patients-visitors/covid-19-resources/covid-19-vaccines/schedule-covid-19-vaccination)
-	- [UIC](https://cookcountypublichealth.org/communicable-diseases/covid-19/covid-vaccine/)
+	- [UIC](https://hospital.uillinois.edu/primary-and-specialty-care/infectious-diseases/covid-19-coronavirus/vaccine)
 	- [United Center](https://events.juvare.com/chicago/UCPOD/) - a code is needed to book via this website, but it’s possible to call the following number to get an appointment instead (if qualified): 3128640590
 	- [Walgreens](https://www.walgreens.com/findcare/vaccination/covid-19)
 	- [Walmart](https://www.walmart.com/cp/1228302)
