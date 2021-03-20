@@ -10,7 +10,7 @@ On March 29, Chicago will enter Covid vaccine [phase 1C](https://www.chicago.gov
 	- [Cook County health](https://cookcountypublichealth.org/communicable-diseases/covid-19/covid-vaccine/)
 	- [Rush Hospital](https://www.rush.edu/patients-visitors/covid-19-resources/covid-19-vaccines/schedule-covid-19-vaccination)
 	- [UIC](https://hospital.uillinois.edu/primary-and-specialty-care/infectious-diseases/covid-19-coronavirus/vaccine)
-	- [United Center](https://events.juvare.com/chicago/UCPOD/) - a code is needed to book via this website, but it’s possible to call the following number to get an appointment instead (if qualified): 3128640590
+	- [United Center](https://events.juvare.com/chicago/UCPOD/) - a code is needed to book via this website, but it’s possible to call the following number to get an appointment instead (if qualified): 312-864-0590
 	- [Walgreens](https://www.walgreens.com/findcare/vaccination/covid-19)
 	- [Walmart](https://www.walmart.com/cp/1228302)
 	- [Zocdoc](https://www.zocdoc.com/vaccine)
