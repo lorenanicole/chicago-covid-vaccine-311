@@ -6,18 +6,10 @@ On March 29, Chicago will enter Covid vaccine [phase 1C](https://www.chicago.gov
 
 - Call your primary care physician or main clinic, they may have extra vaccines or may have had appointment cancellations.
 - Join the [Chicago Vaccine Hunters Facebook Group](https://www.facebook.com/groups/1864372350383607/) — members post ways of getting appointments there regularly (including when particular websites get more appointments).
-- The below websites allow you to book appointments online. Some have appointments posted sporadically throughout the day, others allow you to choose from a calendar of available appointment dates:
-	- [Cook County health](https://cookcountypublichealth.org/communicable-diseases/covid-19/covid-vaccine/)
-	- [Rush Hospital](https://www.rush.edu/patients-visitors/covid-19-resources/covid-19-vaccines/schedule-covid-19-vaccination)
-	- [UIC](https://hospital.uillinois.edu/primary-and-specialty-care/infectious-diseases/covid-19-coronavirus/vaccine)
-	- [United Center](https://events.juvare.com/chicago/UCPOD/) - a code is needed to book via this website, but it’s possible to call the following number to get an appointment instead (if qualified): 312-864-0590
-	- [Walgreens](https://www.walgreens.com/findcare/vaccination/covid-19)
-	- [Walmart](https://www.walmart.com/cp/1228302)
-	- [Zocdoc](https://www.zocdoc.com/vaccine)
+- For a thorough list of ways to get vaccinated, check the [alternatives and additional information on this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9rQdqgSJFapWJCKHA6ERzTva0W82DiEHKzG5AWkCNCaXwgwZOIgoIcN4gsdjgQr8doMLPRTfrLV_L/pubhtml?fbclid=IwAR1kxS9OC6uyiUo7H_ZAa13dXpP8rJ9rcxMdIHMKYljtl9BtS_deg3J4yjU#). Some alternatives have appointments posted sporadically throughout the day, others allow you to choose from a calendar of available appointment dates, and some will reach out to you once you're eligible.
 
-If you have any information you'd like to add, you can issue a pull request to update on [GitHub](https://github.com/lorenanicole/chicago-covid-vaccine-311/).
+If you have any information you'd like to add or update, you can issue a pull request on [GitHub](https://github.com/lorenanicole/chicago-covid-vaccine-311/).
 
 🖖🏽
 
 Good luck out there!
-
