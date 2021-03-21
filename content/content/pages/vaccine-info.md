@@ -8,7 +8,7 @@ On March 29, Chicago will enter Covid vaccine [phase 1C](https://www.chicago.gov
 - Join the [Chicago Vaccine Hunters Facebook Group](https://www.facebook.com/groups/1864372350383607/) — members post ways of getting appointments there regularly (including when particular websites get more appointments).
 - For a thorough list of ways to get vaccinated, check the [alternatives and additional information on this spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9rQdqgSJFapWJCKHA6ERzTva0W82DiEHKzG5AWkCNCaXwgwZOIgoIcN4gsdjgQr8doMLPRTfrLV_L/pubhtml?fbclid=IwAR1kxS9OC6uyiUo7H_ZAa13dXpP8rJ9rcxMdIHMKYljtl9BtS_deg3J4yjU#). Some alternatives have appointments posted sporadically throughout the day, others allow you to choose from a calendar of available appointment dates, and some will reach out to you once you're eligible.
 
-If you have any information you'd like to add, you can issue a pull request to update on [GitHub](https://github.com/lorenanicole/chicago-covid-vaccine-311/).
+If you have any information you'd like to add or update, you can issue a pull request on [GitHub](https://github.com/lorenanicole/chicago-covid-vaccine-311/).
 
 🖖🏽
 
